@@ -58,7 +58,7 @@ body{
 .signin-condition{
     font-size: 12px;
 }
-.signin-condition p span{
+.signin-condition  span{
     color: #0066c0;
 }
 .signin-help{
@@ -91,7 +91,7 @@ body{
     border: none;
     height: 1px;
     background: #d4d4d4;
-    width: 110;
+    width: 110px;
 }
 .signin-signup-btn{
     width: 350px;
